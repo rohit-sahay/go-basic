@@ -1,0 +1,2 @@
+# go-basic
+sample project
